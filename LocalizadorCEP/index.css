@@ -1,0 +1,10 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.div-central-style{
+    margin-top: 25px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
